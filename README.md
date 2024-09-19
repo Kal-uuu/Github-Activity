@@ -9,3 +9,6 @@ Get started by running "pip install -r requirements.txt" to install the necessar
 Now just run "python github-activity.py username" and replace the username with your github username
 
 So simple🤭🌞
+If you are interested in making it on your own,
+
+Here is the link to the project details: https://roadmap.sh/projects/github-user-activity
